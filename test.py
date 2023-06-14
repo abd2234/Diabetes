@@ -1,6 +1,7 @@
 import pandas as pd
 import streamlit as st
 import seaborn as sns
+import matplotlib.pyplot as plt
 
 # Load the diabetes dataset
 diabetes = pd.read_csv('diabetes cleaned 14.csv')
