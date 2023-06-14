@@ -15,9 +15,6 @@ st.write("Diabetes is a chronic metabolic disorder characterized by high blood s
 # Section 3: Visualization
 st.header("Section 3: Visualization")
 
-# Visualize the distribution of age
-st.subheader("Age Distribution")
-st.hist_chart(diabetes['Age'], bins='auto')
 
 # Visualize the distribution of BMI
 st.subheader("BMI Distribution")
