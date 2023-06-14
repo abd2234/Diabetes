@@ -1,24 +1,12 @@
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
 import streamlit as st
 
 # Load the diabetes dataset
 diabetes = pd.read_csv('diabetes cleaned 14.csv')
 
-
-import tempfile
-import urllib.request
-
 # Section 1: Picture
 st.title("Diabetes")
 st.header("Section 1: Picture")
-
-
-
-
-
-
 
 # Section 2: Introduction
 st.header("Section 2: Introduction")
@@ -29,22 +17,15 @@ st.header("Section 3: Visualization")
 
 # Visualize the distribution of age
 st.subheader("Age Distribution")
-fig, ax = plt.subplots()
-sns.histplot(diabetes['Age'], kde=True, ax=ax)
-st.pyplot(fig)
+st.hist_chart(diabetes['Age'], bins='auto')
 
 # Visualize the distribution of BMI
 st.subheader("BMI Distribution")
-fig, ax = plt.subplots()
-sns.histplot(diabetes['BMI'], kde=True, ax=ax)
-st.pyplot(fig)
+st.hist_chart(diabetes['BMI'], bins='auto')
 
 # Visualize the distribution of number of times pregnant
 st.subheader("Number of Times Pregnant Distribution")
-fig, ax = plt.subplots()
-sns.histplot(diabetes['Number of times pregnant'], kde=True, ax=ax)
-st.pyplot(fig)
-
+st.hist_chart(diabetes['Number of times pregnant'], bins='auto')
 # Section 3: Visualization
 st.header("Section 3: Visualization")
 
