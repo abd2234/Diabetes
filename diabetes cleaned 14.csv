@@ -1,0 +1,259 @@
+Age,Gender,Family_Diabetes,highBP,PhysicallyActive,BMI,Smoking,Alcohol,Sleeping hours,RegularMedicine,JunkFood,Stress,BloodPressure level,Number of times pregnant,UriationFreq,Diabetic
+B,Male,no,yes,less than 30 min,21,no,yes,10,0,Frequently,sometimes,high,0,not much,1
+A,Female,yes,no,1 hr or more,23,no,no,3,1,Frequently,always,normal,3,quite Frequently,1
+A,Female,yes,no,1 hr or more,23,no,no,3,1,Frequently,always,normal,3,not much,1
+D,Female,no,no,less than 30 min,18,no,no,6,1,Frequently,sometimes,normal,3,quite Frequently,1
+D,Male,no,yes,less than 30 min,26,no,no,3,1,Frequently,not at all,high,0,not much,1
+D,Male,yes,no,less than 30 min,21,no,no,8,1,Frequently,not at all,normal,0,not much,1
+B,Female,yes,no,more than 30 min,28,no,no,8,1,Frequently,always,normal,2,not much,1
+C,Male,no,yes,1 hr or more,23,no,no,8,1,Frequently,sometimes,high,0,not much,1
+B,Male,no,yes,more than 30 min,27,no,no,8,1,Frequently,not at all,high,0,not much,1
+B,Male,no,no,more than 30 min,21,no,no,6,1,Frequently,sometimes,normal,0,not much,1
+C,Male,yes,no,1 hr or more,38,no,yes,8,1,Frequently,Normally,normal,0,not much,1
+C,Female,yes,yes,more than 30 min,30,no,no,9,1,Normally,sometimes,high,2,not much,1
+D,Male,yes,no,less than 30 min,35,no,no,5,0,Frequently,sometimes,high,0,quite Frequently,1
+D,Female,yes,yes,less than 30 min,23,no,no,3,1,Frequently,always,high,3,quite Frequently,1
+D,Female,no,yes,less than 30 min,27,no,no,6,1,Frequently,always,high,0,quite Frequently,1
+C,Female,yes,no,less than 30 min,21,no,no,8,1,Frequently,Normally,normal,0,quite Frequently,1
+B,Male,yes,yes,less than 30 min,26,no,no,10,1,Frequently,Normally,high,0,quite Frequently,1
+C,Female,yes,no,less than 30 min,21,no,no,8,1,Frequently,sometimes,normal,0,not much,1
+D,Male,yes,no,1 hr or more,26,no,no,6,1,Frequently,not at all,normal,0,not much,1
+C,Male,yes,no,1 hr or more,23,yes,yes,5,1,Frequently,Normally,normal,0,not much,1
+A,Male,yes,yes,1 hr or more,26,yes,yes,5,1,Frequently,not at all,high,0,not much,1
+D,Female,yes,yes,less than 30 min,18,no,no,3,1,Frequently,sometimes,high,0,not much,1
+D,Female,yes,yes,less than 30 min,19,no,no,9,1,Frequently,always,high,3,quite Frequently,1
+D,Female,yes,yes,less than 30 min,33,no,no,6,1,Frequently,sometimes,high,2,not much,1
+C,Male,yes,yes,less than 30 min,31,no,yes,7,1,Frequently,always,high,0,not much,1
+C,Male,yes,no,less than 30 min,23,no,no,7,1,Frequently,sometimes,normal,0,not much,1
+C,Female,no,yes,less than 30 min,20,no,no,7,1,Frequently,sometimes,high,1,not much,1
+D,Male,no,no,more than 30 min,23,no,no,7,0,Frequently,sometimes,normal,0,quite Frequently,1
+A,Female,no,no,less than 30 min,21,no,no,8,0,Frequently,not at all,normal,3,not much,1
+D,Male,no,no,more than 30 min,23,no,yes,7,1,Frequently,Normally,high,0,quite Frequently,1
+D,Male,no,no,less than 30 min,28,no,no,8,1,Frequently,not at all,normal,0,quite Frequently,1
+D,Male,yes,yes,less than 30 min,32,no,no,8,0,Frequently,Normally,high,0,not much,1
+B,Female,yes,no,less than 30 min,33,no,no,6,0,Normally,Normally,normal,2,not much,1
+C,Female,yes,no,less than 30 min,28,no,no,7,1,Frequently,Normally,high,0,quite Frequently,1
+C,Male,yes,yes,1 hr or more,30,yes,yes,7,1,Frequently,always,high,0,quite Frequently,1
+D,Female,no,yes,1 hr or more,26,no,no,8,1,Frequently,sometimes,normal,0,not much,1
+D,Male,yes,no,more than 30 min,26,no,yes,8,1,Frequently,sometimes,normal,0,quite Frequently,1
+B,Male,yes,yes,more than 30 min,21,no,no,6,1,Frequently,sometimes,normal,0,not much,1
+B,Male,yes,no,less than 30 min,23,no,no,8,0,Frequently,sometimes,normal,0,not much,1
+D,Female,yes,yes,more than 30 min,23,no,no,9,1,Frequently,always,high,3,quite Frequently,1
+D,Female,yes,yes,less than 30 min,27,no,no,7,1,Frequently,sometimes,high,3,quite Frequently,1
+D,Male,yes,yes,more than 30 min,23,no,yes,7,1,Frequently,always,high,0,not much,1
+A,Male,yes,no,1 hr or more,28,yes,yes,7,0,Frequently,not at all,normal,0,not much,1
+C,Female,yes,no,less than 30 min,35,no,no,8,1,Frequently,Normally,normal,2,quite Frequently,1
+B,Female,yes,no,1 hr or more,33,no,no,6,1,Normally,Normally,normal,0,quite Frequently,1
+C,Male,yes,yes,more than 30 min,36,yes,no,6,1,Frequently,Normally,high,0,not much,1
+A,Male,yes,no,1 hr or more,28,yes,yes,5,1,Normally,always,normal,0,quite Frequently,1
+B,Male,yes,yes,less than 30 min,35,yes,yes,5,1,Normally,sometimes,high,0,not much,1
+C,Female,no,yes,1 hr or more,22,no,no,8,1,Frequently,always,normal,3,not much,1
+A,Male,no,no,less than 30 min,30,no,yes,8,1,Frequently,sometimes,normal,0,not much,1
+A,Male,yes,no,more than 30 min,22,no,no,8,0,Frequently,sometimes,normal,0,not much,1
+D,Male,yes,yes,more than 30 min,27,no,no,6,1,Frequently,sometimes,high,0,quite Frequently,1
+D,Female,yes,yes,1 hr or more,29,no,no,7,1,Frequently,sometimes,high,2,quite Frequently,1
+C,Male,yes,yes,less than 30 min,28,no,no,8,1,Normally,sometimes,normal,0,not much,1
+B,Male,yes,no,less than 30 min,27,no,no,8,0,Frequently,sometimes,normal,0,not much,1
+B,Male,yes,yes,less than 30 min,21,no,yes,10,0,Frequently,sometimes,high,0,not much,1
+B,Male,yes,no,1 hr or more,23,no,no,7,0,Frequently,sometimes,normal,0,not much,1
+C,Male,yes,no,more than 30 min,22,no,no,7,0,Frequently,sometimes,normal,0,not much,1
+A,Female,yes,no,1 hr or more,23,no,no,3,1,Frequently,always,normal,3,quite Frequently,1
+A,Female,yes,no,1 hr or more,23,no,no,3,1,Frequently,always,normal,3,not much,1
+C,Male,no,no,1 hr or more,27,no,no,7,0,Normally,not at all,normal,0,not much,1
+D,Female,no,no,less than 30 min,18,no,no,6,1,Frequently,sometimes,normal,3,quite Frequently,1
+D,Male,no,yes,less than 30 min,26,no,no,3,1,Frequently,not at all,high,0,not much,1
+D,Female,yes,no,more than 30 min,31,no,no,8,1,Frequently,not at all,normal,3,not much,1
+D,Female,yes,no,less than 30 min,26,no,no,7,0,Frequently,sometimes,normal,3,not much,1
+D,Male,yes,no,less than 30 min,21,no,no,8,1,Frequently,not at all,normal,0,not much,1
+B,Female,yes,no,more than 30 min,28,no,no,8,1,Frequently,always,normal,2,not much,1
+C,Male,no,yes,1 hr or more,23,no,no,8,1,Frequently,sometimes,high,0,not much,1
+B,Male,no,yes,more than 30 min,27,no,no,8,1,Frequently,not at all,high,0,not much,1
+B,Male,no,no,more than 30 min,21,no,no,6,1,Frequently,sometimes,normal,0,not much,1
+D,Male,no,no,less than 30 min,23,no,no,6,0,Frequently,sometimes,normal,0,not much,1
+C,Male,yes,no,1 hr or more,38,no,yes,8,1,Frequently,Normally,normal,0,not much,1
+C,Female,yes,yes,more than 30 min,30,no,no,9,1,Normally,sometimes,high,2,not much,1
+D,Male,yes,no,less than 30 min,35,no,no,5,0,Frequently,sometimes,high,0,quite Frequently,1
+D,Female,yes,yes,less than 30 min,23,no,no,3,1,Frequently,always,high,3,quite Frequently,1
+D,Female,no,yes,less than 30 min,27,no,no,6,1,Frequently,always,high,0,quite Frequently,1
+C,Male,no,yes,less than 30 min,19,no,yes,6,1,Frequently,Normally,high,0,not much,1
+C,Female,yes,no,less than 30 min,21,no,no,8,1,Frequently,Normally,normal,0,quite Frequently,1
+B,Male,yes,yes,less than 30 min,26,no,no,10,1,Frequently,Normally,high,0,quite Frequently,1
+C,Female,yes,no,less than 30 min,21,no,no,8,1,Frequently,sometimes,normal,0,not much,1
+D,Male,yes,no,1 hr or more,26,no,no,6,1,Frequently,not at all,normal,0,not much,1
+C,Male,yes,no,1 hr or more,23,yes,yes,5,1,Frequently,Normally,normal,0,not much,1
+A,Male,yes,yes,1 hr or more,26,yes,yes,5,1,Frequently,not at all,high,0,not much,1
+D,Female,yes,yes,less than 30 min,18,no,no,3,1,Frequently,sometimes,high,0,not much,1
+D,Female,yes,yes,less than 30 min,19,no,no,9,1,Frequently,always,high,3,quite Frequently,1
+D,Female,yes,yes,less than 30 min,33,no,no,6,1,Frequently,sometimes,high,2,not much,1
+C,Male,yes,yes,less than 30 min,31,no,yes,7,1,Frequently,always,high,0,not much,1
+C,Male,yes,no,less than 30 min,23,no,no,7,1,Frequently,sometimes,normal,0,not much,1
+C,Female,no,yes,less than 30 min,20,no,no,7,1,Frequently,sometimes,high,1,not much,1
+C,Male,no,no,more than 30 min,28,no,yes,7,0,Frequently,sometimes,high,0,not much,1
+D,Male,yes,yes,less than 30 min,26,no,yes,6,1,Frequently,not at all,high,0,not much,1
+D,Male,no,no,more than 30 min,23,no,no,7,0,Frequently,sometimes,normal,0,quite Frequently,1
+C,Male,no,yes,less than 30 min,20,yes,yes,6,0,Frequently,Normally,high,0,quite Frequently,1
+A,Female,no,no,less than 30 min,21,no,no,8,0,Frequently,not at all,normal,3,not much,1
+D,Male,no,no,more than 30 min,23,no,yes,7,1,Frequently,Normally,high,0,quite Frequently,1
+D,Male,no,no,less than 30 min,28,no,no,8,1,Frequently,not at all,normal,0,quite Frequently,1
+D,Male,yes,yes,less than 30 min,32,no,no,8,0,Frequently,Normally,high,0,not much,1
+B,Female,yes,no,less than 30 min,33,no,no,6,0,Normally,Normally,normal,2,not much,1
+C,Female,yes,no,less than 30 min,28,no,no,7,1,Frequently,Normally,high,0,quite Frequently,1
+C,Male,yes,yes,1 hr or more,30,yes,yes,7,1,Frequently,always,high,0,quite Frequently,1
+D,Female,no,yes,1 hr or more,26,no,no,8,1,Frequently,sometimes,normal,0,not much,1
+C,Female,yes,yes,less than 30 min,28,no,no,6,1,Frequently,always,high,2,not much,1
+D,Male,yes,no,more than 30 min,26,no,yes,8,1,Frequently,sometimes,normal,0,quite Frequently,1
+B,Male,yes,yes,more than 30 min,21,no,no,6,1,Frequently,sometimes,normal,0,not much,1
+C,Male,yes,no,less than 30 min,32,no,no,8,1,Frequently,sometimes,normal,0,not much,1
+C,Female,no,yes,more than 30 min,33,no,no,6,1,Frequently,sometimes,high,0,quite Frequently,1
+D,Female,yes,no,less than 30 min,38,no,no,5,1,Frequently,Normally,high,0,quite Frequently,1
+D,Male,no,yes,less than 30 min,33,no,no,6,1,Frequently,Normally,high,0,quite Frequently,1
+B,Male,yes,no,less than 30 min,23,no,no,8,0,Frequently,sometimes,normal,0,not much,1
+D,Female,yes,yes,more than 30 min,23,no,no,9,1,Frequently,always,high,3,quite Frequently,1
+D,Female,yes,yes,less than 30 min,27,no,no,7,1,Frequently,sometimes,high,3,quite Frequently,1
+D,Male,yes,yes,more than 30 min,23,no,yes,7,1,Frequently,always,high,0,not much,1
+A,Male,yes,no,1 hr or more,28,yes,yes,7,0,Frequently,not at all,normal,0,not much,1
+C,Female,yes,no,less than 30 min,35,no,no,8,1,Frequently,Normally,normal,2,quite Frequently,1
+B,Female,yes,yes,more than 30 min,33,no,no,7,1,Frequently,sometimes,high,0,quite Frequently,1
+B,Female,yes,no,1 hr or more,33,no,no,6,1,Normally,Normally,normal,0,quite Frequently,1
+C,Male,yes,yes,more than 30 min,36,yes,no,6,1,Frequently,Normally,high,0,not much,1
+D,Male,no,no,less than 30 min,30,no,yes,6,1,Frequently,always,high,0,not much,1
+A,Male,yes,no,1 hr or more,28,yes,yes,5,1,Normally,always,normal,0,quite Frequently,1
+B,Male,yes,yes,less than 30 min,35,yes,yes,5,1,Normally,sometimes,high,0,not much,1
+C,Female,no,yes,1 hr or more,22,no,no,8,1,Frequently,always,normal,3,not much,1
+A,Male,no,no,less than 30 min,30,no,yes,8,1,Frequently,sometimes,normal,0,not much,1
+B,Male,yes,yes,1 hr or more,22,no,no,7,1,Frequently,sometimes,high,0,not much,1
+A,Male,yes,no,more than 30 min,22,no,no,8,0,Frequently,sometimes,normal,0,not much,1
+D,Male,yes,yes,more than 30 min,27,no,no,6,1,Frequently,sometimes,high,0,quite Frequently,1
+D,Male,no,yes,less than 30 min,23,no,no,6,1,Frequently,sometimes,high,0,not much,1
+D,Male,no,yes,less than 30 min,27,no,yes,6,1,Frequently,Normally,high,0,not much,1
+D,Female,yes,yes,1 hr or more,29,no,no,7,1,Frequently,sometimes,high,2,quite Frequently,1
+C,Male,no,no,1 hr or more,23,no,no,8,0,Frequently,sometimes,normal,0,not much,1
+B,Male,no,yes,less than 30 min,21,no,yes,10,0,Frequently,sometimes,high,0,not much,1
+A,Female,yes,no,1 hr or more,23,no,no,3,1,Frequently,always,normal,3,quite Frequently,1
+A,Female,yes,no,1 hr or more,23,no,no,3,1,Frequently,always,normal,3,not much,1
+D,Female,no,no,less than 30 min,18,no,no,6,1,Frequently,sometimes,normal,3,quite Frequently,1
+D,Male,no,yes,less than 30 min,26,no,no,3,1,Frequently,not at all,high,0,not much,1
+D,Female,yes,no,more than 30 min,31,no,no,8,1,Frequently,not at all,normal,3,not much,1
+D,Male,yes,no,less than 30 min,21,no,no,8,1,Frequently,not at all,normal,0,not much,1
+B,Female,yes,no,more than 30 min,28,no,no,8,1,Frequently,always,normal,2,not much,1
+C,Male,no,yes,1 hr or more,23,no,no,8,1,Frequently,sometimes,high,0,not much,1
+B,Male,no,yes,more than 30 min,27,no,no,8,1,Frequently,not at all,high,0,not much,1
+B,Male,no,no,more than 30 min,21,no,no,6,1,Frequently,sometimes,normal,0,not much,1
+D,Male,no,no,less than 30 min,23,no,no,6,0,Frequently,sometimes,normal,0,not much,1
+C,Male,yes,no,1 hr or more,38,no,yes,8,1,Frequently,Normally,normal,0,not much,1
+C,Female,yes,yes,more than 30 min,30,no,no,9,1,Normally,sometimes,high,2,not much,1
+D,Male,yes,no,less than 30 min,35,no,no,5,0,Frequently,sometimes,high,0,quite Frequently,1
+D,Female,yes,yes,less than 30 min,23,no,no,3,1,Frequently,always,high,3,quite Frequently,1
+D,Female,no,yes,less than 30 min,27,no,no,6,1,Frequently,always,high,0,quite Frequently,1
+C,Female,yes,no,less than 30 min,21,no,no,8,1,Frequently,Normally,normal,0,quite Frequently,1
+D,Male,no,no,less than 30 min,31,no,no,6,0,Frequently,Normally,normal,0,not much,1
+B,Male,yes,yes,less than 30 min,26,no,no,10,1,Frequently,Normally,high,0,quite Frequently,1
+C,Female,yes,no,less than 30 min,21,no,no,8,1,Frequently,sometimes,normal,0,not much,1
+D,Male,yes,no,1 hr or more,26,no,no,6,1,Frequently,not at all,normal,0,not much,1
+C,Male,yes,no,1 hr or more,23,yes,yes,5,1,Frequently,Normally,normal,0,not much,1
+A,Male,yes,yes,1 hr or more,26,yes,yes,5,1,Frequently,not at all,high,0,not much,1
+D,Female,yes,yes,less than 30 min,18,no,no,3,1,Frequently,sometimes,high,0,not much,1
+D,Female,yes,yes,less than 30 min,19,no,no,9,1,Frequently,always,high,3,quite Frequently,1
+D,Female,yes,yes,less than 30 min,33,no,no,6,1,Frequently,sometimes,high,2,not much,1
+C,Male,yes,yes,less than 30 min,31,no,yes,7,1,Frequently,always,high,0,not much,1
+C,Male,yes,no,less than 30 min,23,no,no,7,1,Frequently,sometimes,normal,0,not much,1
+C,Female,no,yes,less than 30 min,20,no,no,7,1,Frequently,sometimes,high,1,not much,1
+D,Male,no,no,more than 30 min,23,no,no,7,0,Frequently,sometimes,normal,0,quite Frequently,1
+A,Female,no,no,less than 30 min,21,no,no,8,0,Frequently,not at all,normal,3,not much,1
+D,Male,no,no,more than 30 min,23,no,yes,7,1,Frequently,Normally,high,0,quite Frequently,1
+D,Male,no,no,less than 30 min,28,no,no,8,1,Frequently,not at all,normal,0,quite Frequently,1
+D,Male,yes,yes,less than 30 min,32,no,no,8,0,Frequently,Normally,high,0,not much,1
+B,Female,yes,no,less than 30 min,33,no,no,6,0,Normally,Normally,normal,2,not much,1
+C,Female,yes,no,less than 30 min,28,no,no,7,1,Frequently,Normally,high,0,quite Frequently,1
+C,Male,yes,yes,1 hr or more,30,yes,yes,7,1,Frequently,always,high,0,quite Frequently,1
+D,Male,yes,yes,more than 30 min,21,no,yes,8,1,Frequently,sometimes,normal,0,quite Frequently,1
+D,Female,no,yes,1 hr or more,26,no,no,8,1,Frequently,sometimes,normal,0,not much,1
+C,Female,yes,yes,less than 30 min,28,no,no,6,1,Frequently,always,high,2,not much,1
+D,Male,yes,no,more than 30 min,26,no,yes,8,1,Frequently,sometimes,normal,0,quite Frequently,1
+B,Male,yes,yes,more than 30 min,21,no,no,6,1,Frequently,sometimes,normal,0,not much,1
+C,Female,no,no,less than 30 min,33,no,no,7,1,Frequently,sometimes,normal,0,quite Frequently,1
+D,Female,yes,no,less than 30 min,38,no,no,5,1,Frequently,Normally,high,0,quite Frequently,1
+D,Male,no,yes,less than 30 min,33,no,no,6,1,Frequently,Normally,high,0,quite Frequently,1
+B,Male,yes,no,less than 30 min,23,no,no,8,0,Frequently,sometimes,normal,0,not much,1
+D,Female,yes,yes,more than 30 min,23,no,no,9,1,Frequently,always,high,3,quite Frequently,1
+D,Female,yes,yes,less than 30 min,27,no,no,7,1,Frequently,sometimes,high,3,quite Frequently,1
+D,Male,yes,yes,more than 30 min,23,no,yes,7,1,Frequently,always,high,0,not much,1
+A,Male,yes,no,1 hr or more,28,yes,yes,7,0,Frequently,not at all,normal,0,not much,1
+C,Female,yes,no,less than 30 min,35,no,no,8,1,Frequently,Normally,normal,2,quite Frequently,1
+B,Female,yes,yes,more than 30 min,33,no,no,7,1,Frequently,sometimes,high,0,quite Frequently,1
+B,Female,yes,no,1 hr or more,33,no,no,6,1,Normally,Normally,normal,0,quite Frequently,1
+C,Male,yes,yes,more than 30 min,36,yes,no,6,1,Frequently,Normally,high,0,not much,1
+D,Male,no,no,less than 30 min,30,no,yes,6,1,Frequently,always,high,0,not much,1
+A,Male,yes,no,1 hr or more,28,yes,yes,5,1,Normally,always,normal,0,quite Frequently,1
+B,Male,yes,yes,less than 30 min,35,yes,yes,5,1,Normally,sometimes,high,0,not much,1
+C,Female,no,yes,1 hr or more,22,no,no,8,1,Frequently,always,normal,3,not much,1
+A,Male,no,no,less than 30 min,30,no,yes,8,1,Frequently,sometimes,normal,0,not much,1
+B,Male,yes,yes,1 hr or more,22,no,no,7,1,Frequently,sometimes,high,0,not much,1
+A,Male,yes,no,more than 30 min,22,no,no,8,0,Frequently,sometimes,normal,0,not much,1
+D,Male,yes,yes,more than 30 min,27,no,no,6,1,Frequently,sometimes,high,0,quite Frequently,1
+D,Male,no,yes,less than 30 min,27,no,yes,6,1,Frequently,Normally,high,0,not much,1
+D,Female,yes,yes,1 hr or more,29,no,no,7,1,Frequently,sometimes,high,2,quite Frequently,1
+B,Male,no,yes,less than 30 min,21,no,yes,10,0,Frequently,sometimes,high,0,not much,1
+A,Female,yes,no,1 hr or more,23,no,no,3,1,Frequently,always,normal,3,quite Frequently,1
+A,Female,yes,no,1 hr or more,23,no,no,3,1,Frequently,always,normal,3,not much,1
+C,Male,yes,no,1 hr or more,27,no,no,7,0,Normally,not at all,normal,0,not much,1
+D,Female,no,no,less than 30 min,18,no,no,6,1,Frequently,sometimes,normal,3,quite Frequently,1
+D,Male,no,yes,less than 30 min,26,no,no,3,1,Frequently,not at all,high,0,not much,1
+D,Female,yes,no,more than 30 min,31,no,no,8,1,Frequently,not at all,normal,3,not much,1
+D,Female,yes,no,less than 30 min,26,no,no,7,0,Frequently,sometimes,normal,3,not much,1
+D,Male,yes,no,less than 30 min,21,no,no,8,1,Frequently,not at all,normal,0,not much,1
+B,Female,yes,no,more than 30 min,28,no,no,8,1,Frequently,always,normal,2,not much,1
+C,Male,no,yes,1 hr or more,23,no,no,8,1,Frequently,sometimes,high,0,not much,1
+B,Male,no,yes,more than 30 min,27,no,no,8,1,Frequently,not at all,high,0,not much,1
+B,Male,no,no,more than 30 min,21,no,no,6,1,Frequently,sometimes,normal,0,not much,1
+D,Male,no,no,less than 30 min,23,no,no,6,0,Frequently,sometimes,normal,0,not much,1
+C,Male,yes,no,1 hr or more,38,no,yes,8,1,Frequently,Normally,normal,0,not much,1
+C,Female,yes,yes,more than 30 min,30,no,no,9,1,Normally,sometimes,high,2,not much,1
+D,Male,yes,no,less than 30 min,35,no,no,5,0,Frequently,sometimes,high,0,quite Frequently,1
+D,Female,yes,yes,less than 30 min,23,no,no,3,1,Frequently,always,high,3,quite Frequently,1
+D,Female,no,yes,less than 30 min,27,no,no,6,1,Frequently,always,high,0,quite Frequently,1
+C,Female,yes,no,less than 30 min,21,no,no,8,1,Frequently,Normally,normal,0,quite Frequently,1
+B,Male,yes,yes,less than 30 min,26,no,no,10,1,Frequently,Normally,high,0,quite Frequently,1
+C,Female,yes,no,less than 30 min,21,no,no,8,1,Frequently,sometimes,normal,0,not much,1
+D,Male,yes,no,1 hr or more,26,no,no,6,1,Frequently,not at all,normal,0,not much,1
+C,Male,yes,no,1 hr or more,23,yes,yes,5,1,Frequently,Normally,normal,0,not much,1
+A,Male,yes,yes,1 hr or more,26,yes,yes,5,1,Frequently,not at all,high,0,not much,1
+D,Female,yes,yes,less than 30 min,18,no,no,3,1,Frequently,sometimes,high,0,not much,1
+D,Female,yes,yes,less than 30 min,19,no,no,9,1,Frequently,always,high,3,quite Frequently,1
+D,Female,yes,yes,less than 30 min,33,no,no,6,1,Frequently,sometimes,high,2,not much,1
+C,Male,yes,yes,less than 30 min,31,no,yes,7,1,Frequently,always,high,0,not much,1
+C,Male,yes,no,less than 30 min,23,no,no,7,1,Frequently,sometimes,normal,0,not much,1
+C,Female,no,yes,less than 30 min,20,no,no,7,1,Frequently,sometimes,high,1,not much,1
+D,Male,no,no,more than 30 min,23,no,no,7,0,Frequently,sometimes,normal,0,quite Frequently,1
+A,Female,no,no,less than 30 min,21,no,no,8,0,Frequently,not at all,normal,3,not much,1
+D,Male,no,no,more than 30 min,23,no,yes,7,1,Frequently,Normally,high,0,quite Frequently,1
+D,Male,no,no,less than 30 min,28,no,no,8,1,Frequently,not at all,normal,0,quite Frequently,1
+D,Male,yes,yes,less than 30 min,32,no,no,8,0,Frequently,Normally,high,0,not much,1
+B,Female,yes,no,less than 30 min,33,no,no,6,0,Normally,Normally,normal,2,not much,1
+C,Female,yes,no,less than 30 min,28,no,no,7,1,Frequently,Normally,high,0,quite Frequently,1
+C,Male,yes,yes,1 hr or more,30,yes,yes,7,1,Frequently,always,high,0,quite Frequently,1
+D,Female,no,yes,1 hr or more,26,no,no,8,1,Frequently,sometimes,normal,0,not much,1
+C,Female,yes,yes,less than 30 min,28,no,no,6,1,Frequently,always,high,2,not much,1
+D,Male,yes,no,more than 30 min,26,no,yes,8,1,Frequently,sometimes,normal,0,quite Frequently,1
+B,Male,yes,yes,more than 30 min,21,no,no,6,1,Frequently,sometimes,normal,0,not much,1
+C,Female,no,yes,more than 30 min,35,no,no,7,1,Frequently,always,high,0,not much,1
+D,Female,yes,no,less than 30 min,38,no,no,5,1,Frequently,Normally,high,0,quite Frequently,1
+D,Male,no,yes,less than 30 min,33,no,no,6,1,Frequently,Normally,high,0,quite Frequently,1
+B,Male,yes,no,less than 30 min,25,no,no,8,0,Frequently,sometimes,normal,0,not much,1
+D,Female,yes,yes,more than 30 min,23,no,no,9,1,Frequently,always,high,3,quite Frequently,1
+D,Female,yes,yes,less than 30 min,27,no,no,7,1,Frequently,sometimes,high,3,quite Frequently,1
+D,Male,yes,yes,more than 30 min,23,no,yes,7,1,Frequently,always,high,0,not much,1
+A,Male,yes,no,1 hr or more,28,yes,yes,7,0,Frequently,not at all,normal,0,not much,1
+C,Female,yes,no,less than 30 min,35,no,no,8,1,Frequently,Normally,normal,2,quite Frequently,1
+B,Female,yes,yes,more than 30 min,33,no,no,7,1,Frequently,sometimes,high,0,quite Frequently,1
+B,Female,yes,no,1 hr or more,33,no,no,6,1,Normally,Normally,normal,0,quite Frequently,1
+C,Male,yes,yes,more than 30 min,36,yes,no,6,1,Frequently,Normally,high,0,not much,1
+D,Male,no,no,less than 30 min,30,no,yes,6,1,Frequently,always,high,0,not much,1
+A,Male,yes,no,1 hr or more,28,yes,yes,5,1,Normally,always,normal,0,quite Frequently,1
+B,Male,yes,yes,less than 30 min,35,yes,yes,5,1,Normally,sometimes,high,0,not much,1
+C,Female,no,yes,1 hr or more,22,no,no,8,1,Frequently,always,normal,3,not much,1
+A,Male,no,no,less than 30 min,30,no,yes,8,1,Frequently,sometimes,normal,0,not much,1
+B,Male,yes,yes,1 hr or more,22,no,no,7,1,Frequently,sometimes,high,0,not much,1
+A,Male,yes,no,more than 30 min,25,no,no,8,0,Frequently,sometimes,normal,0,not much,1
+D,Male,yes,yes,more than 30 min,27,no,no,6,1,Frequently,sometimes,high,0,quite Frequently,1
+D,Female,yes,yes,1 hr or more,30,no,no,7,1,Frequently,sometimes,high,2,quite Frequently,1
